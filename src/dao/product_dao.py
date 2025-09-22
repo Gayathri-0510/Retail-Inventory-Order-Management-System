@@ -1,4 +1,3 @@
-# src/dao/product_dao.py
 from typing import Optional, List, Dict
 from src.config import get_supabase
 
