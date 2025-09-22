@@ -1,4 +1,3 @@
-# src/services/customer_service.py
 from typing import List, Dict, Optional
 from src.dao.customer_dao import CustomerDAO
 
