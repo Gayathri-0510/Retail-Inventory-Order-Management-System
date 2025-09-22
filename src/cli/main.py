@@ -1,4 +1,3 @@
-# src/cli/main.py
 import argparse
 from src.services.product_service import ProductService, ProductError
 from src.services.customer_service import CustomerService, CustomerError
