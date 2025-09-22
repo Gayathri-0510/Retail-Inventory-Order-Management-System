@@ -1,4 +1,3 @@
-# src/services/product_service.py
 from typing import List, Dict, Optional
 from src.dao.product_dao import ProductDAO
 
